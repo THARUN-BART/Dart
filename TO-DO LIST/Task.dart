@@ -1,6 +1,6 @@
 class Task {
   String title;
   bool isComplete;
-  Task(this.title,{this.isComplete=true});
+  Task(this.title,{this.isComplete=false});
 
 }
